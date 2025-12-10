@@ -1,0 +1,17 @@
+body {
+  background-color: #f7f7f7;
+  font-family: Arial, sans-serif;
+}
+.custom-bg {
+  background-image: url('images/travel1.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  color: white;
+}
+.div-box {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 12px;
+}
